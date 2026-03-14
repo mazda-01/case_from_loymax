@@ -1,0 +1,14 @@
+.venv/
+**/__pycache__/
+**/.cache/
+
+.env
+.env.*
+!.env.example
+
+.pytest_cache/
+hf_cache/
+qdrant_storage/
+.ipynb_checkpoints/
+
+.DS_Store
